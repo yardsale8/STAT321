@@ -3,7 +3,7 @@
 This repository contains Jupyter notebooks for the handouts and slides for STAT
 321.  You can launch the notebooks by clecking on the following badge.
 
- - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/r_with_python/master?urlpath=lab)
+ - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/yardsale8/STAT321?urlpath=lab)
 
 ## Original source of this repo
 
